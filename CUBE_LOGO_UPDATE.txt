@@ -1,0 +1,1 @@
+Updated Gotham Partners cube: added GoExceed and Ubiquiti, replaced vendor logo rotation so consecutive cube faces do not repeat the same logos, and updated fallback grid.
